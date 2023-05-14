@@ -59,5 +59,19 @@ Contributions are welcome! If you find any bugs or have suggestions for addition
 This project is licensed under the [MIT License](LICENSE).
 
 ## SCREENS OF ADMIN PANEL
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/bcdec774-8df1-445e-9484-1c039870a4d4)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/0933359f-e713-49b7-b5f5-6f6efcb6951c)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/63cd9721-471e-4ba4-aa18-c427d18a8d3f)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/1fc2c440-e56d-402e-b969-ef902fdff5a5)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/b0e1be1d-c503-4cfd-a2d3-61c4dc52fcea)
 
 ## SCREENS OF ECOMMERCE STORE
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/f26903cc-16b9-40b6-8a74-cbdb6920ee6a)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/4884db9f-34d7-48b9-97b1-94014eb16815)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/68e7680d-18a1-4a8f-89d4-6b08587782d8)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/41315c45-7f97-48aa-a87a-0de28ed8fe26)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/36efcaf3-7644-44df-b142-d11379891459)
+![image](https://github.com/adrwlo/ecommerce-app/assets/88748481/bc2aedea-62fc-42c6-ae14-a05231837c5e)
+
+
+
